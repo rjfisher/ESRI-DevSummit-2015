@@ -1,1 +1,148 @@
-["index.md"]
+[
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background": "http://d1lwft0f0qzya1.cloudfront.net/dims4/COKE/43f697d/2147483647/thumbnail/596x334/quality/75/?url=http%3A%2F%2Fassets.coca-colacompany.com%2F5a%2F02%2Febc1d0f842468408be5de9740884%2Fcoding1-604.jpg"
+        }
+    },
+    [
+        {
+            "filename": "drinking-the-kool-aid.md",
+            "attr": {
+                "data-background": "http://cdn.digitaloperative.com/wp-content/uploads/2012/11/koolaid.jpg"
+            }
+        },
+        "the-platform.md",
+        {
+            "filename": "smart-maps.md",
+            "attr": {
+                "data-background": "http://www.darpa.mil/uploadedImages/Content/NewsEvents/Releases/2014/SUBNET_Final_1.jpg"
+            }
+        },
+        "smart-maps-video.md",
+        {
+            "filename": "apps.md",
+            "attr": {
+                "data-background": "http://cdn.pigeonsandplanes.com/wp-content/uploads/2014/11/Mobile-apps-economy1-600x400.png"
+            }
+        },
+        "apps-video.md",
+        {
+            "filename": "vector-tiles.md",
+            "attr": {
+                "data-background": "http://vignette2.wikia.nocookie.net/despicableme/images/3/38/White_house_XD.jpg/revision/latest?cb=20131020204717"
+            }
+        },
+        "vector-tiles-video.md",
+        {
+            "filename": "mobile-map-packages.md",
+            "attr": {
+                "data-background": "http://i.imgur.com/Lu6DW.gif"
+            }
+        },
+        "mobile-map-packages-video.md",
+        {
+            "filename": "develop-once-deploy-everywhere.md",
+            "attr": {
+                "data-background": "http://giant.gfycat.com/PoisedActiveBedlingtonterrier.gif"
+            }
+        },
+        "develop-once-deploy-everywhere-video.md"
+    ],
+    [
+        {
+            "filename": "the-harsher-reality.md",
+            "attr": {
+                "data-background": "http://media.giphy.com/media/JoVsd2uAqRU4M/giphy.gif"
+            }
+        },
+        {
+            "filename": "web-rules-apps-drool.md",
+            "attr": {
+                "data-background": "http://media.giphy.com/media/PchB2WgP1aKc0/giphy.gif"
+            }
+        },
+        {
+            "filename": "dojos-great-digits-suck.md",
+            "attr": {
+                "data-background": "http://media.giphy.com/media/vIg5t0KHYqgE0/giphy.gif"
+            }
+        },
+        {
+            "filename": "too-many-frameworks.md",
+            "attr": {
+                "data-background": "http://media.giphy.com/media/cEYFeDJBPAHif5q0cBq/giphy.gif"
+            }
+        },
+        {
+            "filename": "testing-is-a-mess.md",
+            "attr": {
+                "data-background": "http://media.giphy.com/media/X3uAWMoJz4bqo/giphy.gif"
+            }
+        }
+    ],
+    [
+        {
+            "filename": "let-there-be-light.md",
+            "attr": {
+                "data-background": "https://s3.amazonaws.com/giphygifs/media/ID5AxiktG4X96/giphy.gif"
+            }
+        },
+        {
+            "filename": "tooling.md",
+            "attr": {
+                "data-background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaHTfUpMIv_i9mvNhqE3SNjV5xD8b4tWsi4ChOtGNq91lC0ef-GA"
+            }
+        },
+        {
+            "filename": "modular-development.md",
+            "attr": {
+                "data-background": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lego_Color_Bricks.jpg/1920px-Lego_Color_Bricks.jpg"
+            }
+        },
+        {
+            "filename": "appstudio-is-genius.md",
+            "attr": {
+                "data-background": "http://i.ytimg.com/vi/0QYjFzFvJk4/hqdefault.jpg"
+            }
+        }
+    ],
+    [
+        {
+            "filename": "the-future.md",
+            "attr": {
+                "data-background": "http://media.giphy.com/media/YlQQYUIEAZ76o/giphy.gif"
+            }
+        },
+        {
+            "filename": "focus-on-javascript.md",
+            "attr": {
+                "data-background": "http://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif"
+            }
+        },
+        {
+            "filename": "investigate-appstudio-for-mobile-projects.md",
+            "attr": {
+                "data-background": "http://media.giphy.com/media/McjDXkZKw2v8A/giphy.gif"
+            }
+        },
+        {
+            "filename": "write-templateswidgets-not-apps.md",
+            "attr": {
+                "data-background": "http://rlv.zcache.co.uk/aqua_handlebar_moustache_on_black_damask_pattern_business_card-rff4d5938631643adb3d5346f79160861_i579t_8byvr_512.jpg"
+            }
+        }
+    ],
+    {
+        "filename": "questions.md",
+        "attr": {
+            "data-background": "http://i.imgur.com/DesR8Ux.gif"
+        }
+    },
+    {
+        "filename": "thanks.md",
+        "attr": {
+            "data-background": "http://media.giphy.com/media/fr5TzUeMCYuY/giphy.gif"
+        }
+    }
+]
